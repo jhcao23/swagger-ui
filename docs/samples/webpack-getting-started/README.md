@@ -9,6 +9,6 @@ It includes CSS and OAuth configuration.
 
 
 #### Usage
-    rename `_sample_package.json` to `package.json`
-    npm install
-    npm start
+  - copy your `swagger.yml` to `src` folder
+  - update your __title__ of `index.html`
+  - `yarn install && yarn start`
